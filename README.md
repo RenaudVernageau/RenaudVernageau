@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenaudVernageau
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me renaudvrng@gmail.com
+- 📫 How to reach me renaudvernageau@icloud.com
 
 <!---
 RenaudVernageau/RenaudVernageau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
