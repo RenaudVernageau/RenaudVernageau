@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenaudVernageau
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning technologies around javascript
 - 📫 How to reach me renaudvernageau@icloud.com
 
 <!---
