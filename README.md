@@ -8,9 +8,8 @@
 - **3D & Graphics**: Three.js, React Three Fiber, Blender, WebGL  
 - **Back-end**: Node.js, Express, MongoDB, Socket.IO  
 - **Others**: SEO, UX/UI, project management, RGPD compliance``
-- 📫 How to reach me renaudvernageau@icloud.com``
 
-  ## 📫 How to reach me  
+## 📫 How to reach me  
 ✉️ renaudvernageau@icloud.com  
 
 <!---
